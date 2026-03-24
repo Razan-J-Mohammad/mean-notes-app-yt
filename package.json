@@ -1,0 +1,28 @@
+{
+  "name": "mean-notes-app-yt",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razan-J-Mohammad/mean-notes-app-yt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razan-J-Mohammad/mean-notes-app-yt/issues"
+  },
+  "homepage": "https://github.com/Razan-J-Mohammad/mean-notes-app-yt#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
